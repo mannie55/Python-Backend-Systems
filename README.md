@@ -1,4 +1,4 @@
-# alx-backend-python
+#python-backend-systems
 
 This repository contains a collection of Python backend projects and exercises, focusing on practical concepts and real-world skills for backend development. Each subdirectory covers a specific topic, ranging from generators and decorators to database operations, asynchronous programming, and comprehensive testing.
 
@@ -7,18 +7,22 @@ This repository contains a collection of Python backend projects and exercises, 
 ## Project Structure
 
 - **`python-generators-0x00/`**
+
   - Learn how to use Python generators for efficient data streaming and batch processing, especially with databases.
   - Includes scripts for streaming users, batch processing, lazy pagination, and seeding a MySQL database.
 
 - **`python-decorators-0x01/`**
+
   - Explore Python decorators for logging, database connection management, transactions, retries, and caching.
   - Practice writing reusable and composable decorator functions for backend tasks.
 
 - **`python-context-async-perations-0x02/`**
+
   - Dive into context managers and asynchronous operations in Python.
   - Work with database connections, execute queries asynchronously, and handle concurrent operations.
 
 - **`0x03-Unittests_and_integration_tests/`**
+
   - Master unit and integration testing using `unittest`, `parameterized`, and `mock`.
   - This project provides a client for the GitHub API and includes extensive tests to demonstrate best practices for mocking and test parameterization. You'll learn to write robust tests for utility functions (`access_nested_map`), API clients (`GithubOrgClient`), and memoized properties.
 
@@ -45,6 +49,7 @@ This repository contains a collection of Python backend projects and exercises, 
 ## How to Use
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/alx-backend-python.git
    cd alx-backend-python
